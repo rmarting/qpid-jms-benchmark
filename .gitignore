@@ -27,3 +27,9 @@ hs_err_pid*
 
 /target/
 /build.metadata
+
+# IDE resources
+.classpath
+.project
+.settings/
+
